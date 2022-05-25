@@ -3,6 +3,18 @@
 リポジトリが作成された日から読んだ論文です．
 これ以前には主にGECに関する論文を読んでいました．
 
+## In Queue (High Priority, well-known)
+
+
+## In Queue (ACL2022)
+
+- VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena 
+- MMCoQA: Conversational Question Answering over Text, Tables, and Images 
+- Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation 
+- UniTE: Unified Translation Evaluation 
+- DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training 
+- Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics 
+
 ##### memo
 
 - タグ付けする
